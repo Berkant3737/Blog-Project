@@ -1,5 +1,6 @@
 import React from "react";
 import Logo from "../../images/logo.jpg";
+import Cv from "./BerkantHurmaCv.pdf"
 function BannerText() {
   return (
     <>
@@ -9,6 +10,7 @@ function BannerText() {
         </div>
         <h1>Berkant Hurma</h1>
         <p className="typewriter">Front-End Developer</p>
+        <a href={Cv} className="button-cv btn btn-outline">CV'mi Görüntüle</a>
       </div>
     </>
   );

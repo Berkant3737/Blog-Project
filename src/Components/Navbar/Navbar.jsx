@@ -56,12 +56,12 @@ const Navbar = () => {
             </li>
             <li className="nav-item">
               <a className="nav-link">
-                <MdCode /> Projelerim
+                <RiRocketLine /> Tecrübelerim
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link">
-                <RiRocketLine /> Tecrübelerim
+                <MdCode /> Projelerim
               </a>
             </li>
             <li className="nav-item">

@@ -50,3 +50,44 @@ p{
     width: 19ch;
   }
 }
+
+.SocialsIcon{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #fff;
+  box-shadow: rgba(100,100,111,.2) 0 7px 29px 0;
+  padding: 0.9rem;
+  ul{
+    li{
+      font-size: 32px;
+    }
+  }
+}
+.button-cv{
+  background: #facf0f;
+  color: #333;
+  margin-top: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+  font-weight: 700;
+  border-radius: 5px;
+  box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+  transition: transform .3s;
+  padding: 15px 25px;
+}
+
+/* About */
+.about{
+  h1{
+    font-family: Source Sans Pro;
+  }
+  p{
+    color: #555;
+    font-size: 19px;
+    font-weight: 500;
+    font-family: Source Sans Pro "sans-serif";
+    line-height: 1.6;
+  }
+}

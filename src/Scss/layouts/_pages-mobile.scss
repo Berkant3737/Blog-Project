@@ -1,0 +1,21 @@
+@media(max-width:571px){
+    .SocialsIcon{
+        width: 200px;
+        position: absolute;
+        top: 96%;
+        left: 25%;
+        transform: translateY(-50%);
+        background: #fff;
+        box-shadow: rgba(100,100,111,.2) 0 7px 29px 0;
+        padding: 0.5rem;
+        ul{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+          li{
+            font-size: 30px;
+          }
+        }
+      }
+
+}
