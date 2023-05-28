@@ -1,14 +1,11 @@
-import React from 'react'
-
-
+import React from "react";
+import ContactForm from "./ContactForm"
 function ContactMe() {
   return (
-    <div className='container'>
-        <div className="row justify-content-center">
-            
-        </div>
+    <div className="contact-me">
+        <ContactForm/>
     </div>
-  )
+  );
 }
 
-export default ContactMe
+export default ContactMe;
