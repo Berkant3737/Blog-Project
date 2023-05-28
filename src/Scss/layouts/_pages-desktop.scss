@@ -66,8 +66,8 @@ p{
   }
 
 .button-cv{
-  background: #facf0f;
   color: #333;
+  background: #facf0f;
   margin-top: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -133,6 +133,23 @@ p{
 .project{
   h1{
     font-family: Source Sans Pro;
+  }
+  .project-button{
+  color: #333;
+  background: #facf0f;
+  margin-top: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+  font-weight: 700;
+  border-radius: 5px;
+  box-shadow: 0 5px 15px 0 rgba(0,0,0,.15);
+  transition: transform .3s;
+  padding: 10px 15px;
+  }
+  .project-button:hover{
+    background-color: white;
+    color: black;
   }
 }
 .contact-me{
