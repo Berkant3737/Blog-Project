@@ -12,5 +12,12 @@
     "description":"Bootstrap ile yapmış olduğum bir döküm çalışması.Google'da bulduğum bir tasarımı Bootstrap ile koda döktüm",
     "github":"https://github.com/Berkant3737/Bootstrap-Project-2",
     "liveDemo":"https://lovely-eclair-0a07ef.netlify.app/"
+},
+{
+    "img":"/images/React.js.png",
+    "title":"React.js Çalışmam",
+    "description":"React.js ile yapmış olduğum bir freelancer çalışmam.",
+    "github":"https://github.com/Berkant3737/SGS-RENT-A-CAR-V2",
+    "liveDemo":"https://sgsrentacar.com/"
 }
 ]
