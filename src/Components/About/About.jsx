@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="container mt-3 about">
+    <div className="container mt-3 about" id="hakkimda">
       <div className="row justify-content-center text-center">
         <div className="col-lg-8">
           <h1>HAKKIMDA</h1>

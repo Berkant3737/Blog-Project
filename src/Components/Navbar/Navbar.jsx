@@ -43,29 +43,29 @@ const Navbar = () => {
             </a>
             </div>
           </div>
-          <ul className="navbar-nav ms-lg-auto mb-2 mb-lg-0">
+          <ul className="navbar-nav ms-lg-auto mb-2 mb-lg-0 text-center">
             <li className="nav-item">
-              <a className="nav-link" aria-current="page" href="#">
+              <a className="nav-link" aria-current="page" href="#anasayfa">
                 <AiOutlineHome /> AnaSayfa
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="#hakkimda">
                 <AiOutlineUser /> Hakkımda
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link">
+              <a className="nav-link" href="#tecrubelerim">
                 <RiRocketLine /> Tecrübelerim
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link">
+              <a className="nav-link" href="#projelerim">
                 <MdCode /> Projelerim
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link">
+              <a className="nav-link" href="#iletişim">
                 <AiOutlineAntDesign /> İletişim
               </a>
             </li>

@@ -1,0 +1,34 @@
+[
+{
+    "name":"HTML",
+    "svg":"/svg/Html.svg"
+},
+{
+    "name":"CSS",
+    "svg":"/svg/Css.svg"
+},
+{
+    "name":"Scss/Sass",
+    "svg":"/svg/Scss-Sass.svg"
+},
+{
+    "name":"Bootstrap",
+    "svg":"/svg/Bootstrap.svg"
+},
+{
+    "name":"Javascript",
+    "svg":"/svg/Javascript.svg"
+},
+{
+    "name":"React.js",
+    "svg":"/svg/React.svg"
+},
+{
+    "name":"Node.js",
+    "svg":"/svg/Node.svg"
+},
+{
+    "name":"Git",
+    "svg":"/svg/Git.svg"
+}
+]
