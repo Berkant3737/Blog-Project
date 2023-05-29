@@ -2,7 +2,7 @@ import React from "react";
 import ProjectJson from "../../Json/ProjectCards.json";
 function Project() {
   return (
-    <div className="container project">
+    <div className="container project" id="projelerim">
       <h1 className="text-center">Projelerim</h1>
       <div class="row justify-content-center mt-5 mb-5">
         <div className="col-md-8">
