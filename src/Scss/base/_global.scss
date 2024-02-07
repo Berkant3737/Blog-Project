@@ -28,3 +28,35 @@ ul{
     margin-right: auto;
     overflow: hidden;
 }
+.appdark{
+    color: white;
+    background-color: black;
+    .SocialsIcon{
+        background-color: black;
+    }
+    .banner-text{
+        color: black;
+    }
+    .about p{
+        color: white;
+    }
+    .skill-card{
+        span{
+            color: black;
+        }
+    }
+    .project{
+        .card-body{
+            color: white;
+            background-color:  #0F0E0E;
+        }
+    }
+    .contact-me{
+        h1{
+            color: black;
+        }
+        form{
+            color: black;
+        }
+    }
+}
